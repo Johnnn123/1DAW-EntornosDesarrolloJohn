@@ -9,6 +9,7 @@ public class Ejercicio2 {
 		ra=teclado.nextDouble();
 		area=(ra*Math.PI*ra);
 		System.out.println("El area es "+area+" m2");
+		System.out.println("holaaa");
 		}
 }
 

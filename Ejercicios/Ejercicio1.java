@@ -11,5 +11,6 @@ public class Ejercicio1 {
 		a=teclado.next();
 		nume=a.length();
 		System.out.println("El número "+a+" tiene "+nume+" caracteres.");
+		System.out.println("holaaa");
 		}
 }
