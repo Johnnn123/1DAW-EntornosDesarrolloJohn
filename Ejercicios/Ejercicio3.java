@@ -6,7 +6,7 @@ public class Ejercicio3 {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
-		double h1,h2,a,b,c,h;
+		double h3,h2,a,b,c,h;
 		System.out.println("Introduce numero para a");
 		a=teclado.nextDouble();
 		System.out.println("Introduce numero para b");
@@ -18,9 +18,9 @@ public class Ejercicio3 {
 		System.out.println("No es posible");
 		}
 		else {
-		h1=(-b+Math.sqrt(h))/(2*a);	
+		h3=(-b+Math.sqrt(h))/(2*a);	
 		h2=(-b-Math.sqrt(h))/(2*a);	
-		System.out.println("x= "+h1);
+		System.out.println("x= "+h3);
 		System.out.println("x= "+h2);
 		}
 		}
